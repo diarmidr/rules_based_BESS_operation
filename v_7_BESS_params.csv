@@ -1,0 +1,5 @@
+BESS,BESS_class,Eff_LP,EDR,CFR
+Reed2016,VRFB,0.72,0.0009,0.0066
+Schma2014,Li-ion,0.91,,
+no_deg_VRFB,VRFB,0.72,0,0
+CF_only,VRFB,0.72,0,0.0066
